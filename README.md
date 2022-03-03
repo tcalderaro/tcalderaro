@@ -6,11 +6,11 @@
 
 
 
-<p align="left"> I´m Tiago, welcome to my page! I´m 21 years old and a future Data Scientist.</p>
+<p align="left"> I´m Tiago, welcome to my page! I´m 22 years old and a Data Scientist.</p>
 
 <p align="left"> <strong>🎓 Graduation 
 
-I´m studying Systems Analisys at UNITAU and graduating at 2021. 
+I´ve studied Systems Analisys at UNITAU and graduated at 2022. 
 </p>
 
 <p align="left"> <strong>📚 My Studies </strong>
