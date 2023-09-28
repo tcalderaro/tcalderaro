@@ -6,7 +6,7 @@
 
 
 
-<p align="left"> I´m Tiago, welcome to my page! I´m 22 years old and a Data Scientist.</p>
+<p align="left"> I´m Tiago, welcome to my page! I´m 23 years old and a Data Scientist.</p>
 
 <p align="left"> <strong>🎓 Graduation 
 
@@ -23,7 +23,7 @@ I´m a great data enthusiast, so my field of study is aimed to Data Science/ Mac
 </p>
 
 <p align="left">
-    🔨 Tools: <strong>Google Colab, PowerBI, GIT</strong>
+    🔨 Tools: <strong>Google Colab, Databricks, PowerBI, GIT</strong>
 </p>
 
 <p align="left"> ✉️ Besides Linkedin, you can reach me through my e-mail: tiagoocalderaro@hotmail.com </p>
