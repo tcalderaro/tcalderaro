@@ -10,7 +10,7 @@
 
 <p align="left"> <strong>🎓 Graduation 
 
-I´ve studied Systems Analisys at UNITAU and graduated at 2022. 
+I´ve studied Systems Analisys at UNITAU and graduated in 2022. 
 </p>
 
 <p align="left"> <strong>📚 My Studies </strong>
